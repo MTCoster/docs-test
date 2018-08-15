@@ -1,0 +1,4 @@
+site_name: Docs Test
+repo_url: https://github.com/MTCoster/docs-test
+theme:
+  name: 'material'
