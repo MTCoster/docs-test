@@ -1,1 +1,1 @@
-mkdocs-material==3.0.3
+guzzle_sphinx_theme==0.7.11
