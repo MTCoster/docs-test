@@ -5,4 +5,4 @@ Content
    :maxdepth: 2
    :caption: Content Pages:
 
-   speakers
+   *

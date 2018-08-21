@@ -81,6 +81,7 @@ html_theme = 'default'
 #
 html_theme_options = {
     # 'project_nav_name': 'Docs Test',
+    'navigation_depth': 3,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
