@@ -7,12 +7,10 @@ TEDxWarwick website documentation
 =================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   :caption: Table of Contents:
 
-   content/speakers
-   genindex
-   search
+   content/index
 
 Indices and tables
 ==================

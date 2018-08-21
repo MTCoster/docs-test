@@ -3,6 +3,6 @@ Content
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Content Pages:
 
    speakers
