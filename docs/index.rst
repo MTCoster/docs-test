@@ -8,9 +8,15 @@ TEDxWarwick website documentation
 
 .. toctree::
    :maxdepth: 3
-   :caption: Table of Contents:
 
-   content/index
+   overview
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Content:
+
+   content/modifying_content
+   content/page_types
 
 Indices and tables
 ==================
