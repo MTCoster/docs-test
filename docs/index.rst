@@ -10,11 +10,12 @@ TEDxWarwick website documentation
    :maxdepth: 2
    :caption: Contents:
 
-   content
+   content/*
+   genindex
+   search
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
