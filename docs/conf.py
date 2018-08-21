@@ -16,7 +16,7 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-import shinx-rtd-theme
+import sphinx-rtd-theme
 
 # -- Project information -----------------------------------------------------
 
