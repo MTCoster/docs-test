@@ -1,25 +1,11 @@
-.. Docs Test documentation master file, created by
-   sphinx-quickstart on Thu Aug 16 19:11:24 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-TEDxWarwick website documentation
-=================================
+TEDxWarwick Website Docs - Index
+================================
 
 .. toctree::
    :maxdepth: 3
+   :caption: Sections:
 
-   overview
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Content:
-
-   content/modifying_content
-   content/page_types
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
+   Overview (start here) <overview>
+   Content <content>
+   Design <design>
+   Docs <docs>
