@@ -10,7 +10,7 @@ TEDxWarwick website documentation
    :maxdepth: 2
    :caption: Contents:
 
-   content/*
+   content/speakers
    genindex
    search
 
